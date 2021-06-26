@@ -2,7 +2,7 @@
 
 ## Livros
 
-* [Pense Python, 2e](https://penseallen.github.io/PensePython2e/)
+* [Pense Python, 2e](http://heitorchang.github.io/pensepy/)
 * Python Fluente
 
 ## Conceitos
