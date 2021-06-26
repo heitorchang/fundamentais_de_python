@@ -35,6 +35,6 @@
 
 ## Ferramentas
 
-* Visual Studio Code
+* Visual Studio Code (com Live Share)
 * [Deepnote](https://deepnote.com)
 * [JetBrains Datalore](https://datalore.jetbrains.com)
