@@ -12,8 +12,15 @@
 * Instruções
 * Funções
 * Iteração
-* Tipos imutáveis (strings, números, booleanos)
-* Coleções (listas, tuplas, dicionários, conjuntos)
+* Tipos imutáveis
+  * strings
+  * números
+  * booleanos
+* Coleções
+  * listas
+  * tuplas
+  * dicionários
+  * conjuntos
 * Arquivos
 * Classes
 * Atributos
